@@ -1,1 +1,1 @@
-# This is just a testing project.
+# This is a simple JPG to PNG converter
